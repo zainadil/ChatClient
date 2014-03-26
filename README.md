@@ -1,7 +1,6 @@
-CryptoChatClient
+ChatClient
 ================
-
-Chat Client 
+Terminal based chat client
 
 ###Tech Stack
 Java6
